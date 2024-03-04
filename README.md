@@ -1,2 +1,2 @@
 # Deepthi-Resume
-Deepthi' first Online Resume
+Deepthi's first Online Resume
